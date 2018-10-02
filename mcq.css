@@ -1,0 +1,26 @@
+#mcq{
+	background-color:gray;
+	font-family:san-serif;
+	padding:10px 550px;
+}
+button{
+	margin-left:600px;
+	color:green;
+	width:100px;
+	font-size:25px;
+}
+h1{
+	color:yellow;
+}
+h2{
+	color:black;
+	padding-left:20px;
+}
+body{
+	background:#6cf;
+		padding-left:70px;
+		padding-right:200px;
+}
+
+
+	
